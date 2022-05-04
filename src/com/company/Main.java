@@ -2,7 +2,7 @@ package com.company;
 import java.util.Scanner;
 import java.util.Random;
 import java.util.Arrays;
-public class Main {
+public class Main { // 7 ball beriptir!!!
     public static void main(String[] args) {
         method1(new int[]{1, 8, 3, 3, 4, 4, 9, 12});
         method2(new int[]{1, 8, 3, 3, 4, 4, 9, 12});
